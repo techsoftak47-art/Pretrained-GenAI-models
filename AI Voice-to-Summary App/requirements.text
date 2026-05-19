@@ -1,0 +1,8 @@
+gradio
+groq
+transformers
+torch
+accelerate
+librosa
+soundfile
+sentencepiece
