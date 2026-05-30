@@ -1,0 +1,11 @@
+gradio
+groq
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+pymupdf
+numpy
+pandas
